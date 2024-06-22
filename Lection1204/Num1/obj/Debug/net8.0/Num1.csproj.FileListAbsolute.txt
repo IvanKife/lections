@@ -1,0 +1,14 @@
+C:\Temp\ispp21\Lection1204\Num1\bin\Debug\net8.0\Num1.exe
+C:\Temp\ispp21\Lection1204\Num1\bin\Debug\net8.0\Num1.deps.json
+C:\Temp\ispp21\Lection1204\Num1\bin\Debug\net8.0\Num1.runtimeconfig.json
+C:\Temp\ispp21\Lection1204\Num1\bin\Debug\net8.0\Num1.dll
+C:\Temp\ispp21\Lection1204\Num1\bin\Debug\net8.0\Num1.pdb
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.AssemblyInfoInputs.cache
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.AssemblyInfo.cs
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.dll
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\refint\Num1.dll
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.pdb
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\Num1.genruntimeconfig.cache
+C:\Temp\ispp21\Lection1204\Num1\obj\Debug\net8.0\ref\Num1.dll

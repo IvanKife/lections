@@ -1,0 +1,14 @@
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.AssemblyInfoInputs.cache
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.AssemblyInfo.cs
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\Lection1204\Lection1204\bin\Debug\net8.0\Lection1204.exe
+C:\Temp\ispp21\Lection1204\Lection1204\bin\Debug\net8.0\Lection1204.deps.json
+C:\Temp\ispp21\Lection1204\Lection1204\bin\Debug\net8.0\Lection1204.runtimeconfig.json
+C:\Temp\ispp21\Lection1204\Lection1204\bin\Debug\net8.0\Lection1204.dll
+C:\Temp\ispp21\Lection1204\Lection1204\bin\Debug\net8.0\Lection1204.pdb
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.dll
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\refint\Lection1204.dll
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.pdb
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\Lection1204.genruntimeconfig.cache
+C:\Temp\ispp21\Lection1204\Lection1204\obj\Debug\net8.0\ref\Lection1204.dll
